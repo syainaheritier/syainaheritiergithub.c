@@ -1,0 +1,22 @@
+
+body{
+	background:url(image0.jpg);
+	background-size: cover;
+	height: 80vh;
+	background-position: center;
+}
+
+body div{
+	background-color: silver;
+	color:silver ;
+	text-align: center;
+	margin: 80px;
+	padding: 50px;
+	border-radius: 50px;
+}
+
+div p {
+	color: silver;
+	font-style: Britannic Bold ;
+	font-size: 20px;
+}
